@@ -1,0 +1,10 @@
+{
+  "name": "aws-util-dynamodb-bug-repro",
+  "version": "1.0.0",
+  "author": "BraydonKains",
+  "license": "MIT",
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.24.0",
+    "@aws-sdk/lib-dynamodb": "^3.24.0"
+  }
+}
